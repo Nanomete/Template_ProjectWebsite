@@ -2,11 +2,11 @@ import React from 'react'
 
 function Footer() {
     return (
-        <footer class="text-center p-4">
-        <div class="container">
-            <div class="row">
-                <div class="col">
-                    <p class="text-light"> Copyright &copy; Nanomete Official</p>
+        <footer className="text-center p-4">
+        <div className="container">
+            <div className="row">
+                <div className="col">
+                    <p className="text-light"> Copyright &copy; Nanomete Official</p>
                 </div>
             </div>
         </div>
