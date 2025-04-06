@@ -1,13 +1,12 @@
-## React 17 starter project for [Code App](https://github.com/codeapp)
-- Support hot reloading
-- Preserve states between reloads using `react-hot-loader`
+# Template_ProjectWebsite
 
-To start, run these commands in the terminal:
-```
-npm i
-npm run start
-```
+Tools in the project
 
-To preview the project, open Safari in split view and visit `localhost:3000`.
+IDE(Application) use in this project
+- Code App (App store)
 
-<img width="1080" alt="image" src="https://user-images.githubusercontent.com/38398443/214802398-b18e2ffb-8c10-4ccd-96f3-dce76350c697.png">
+framework in this project
+- react
+- bootstrap
+
+The project is a template website code in react and It's made on ipad by Code App
